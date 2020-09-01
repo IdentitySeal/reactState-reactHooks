@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IdentitySeal/reactState-reactHooks.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/IdentitySeal/reactState-reactHooks.git/static/js/main.2ffd08a1.chunk.js",
+    "main.js.map": "/IdentitySeal/reactState-reactHooks.git/static/js/main.2ffd08a1.chunk.js.map",
+    "runtime-main.js": "/IdentitySeal/reactState-reactHooks.git/static/js/runtime-main.7563e6be.js",
+    "runtime-main.js.map": "/IdentitySeal/reactState-reactHooks.git/static/js/runtime-main.7563e6be.js.map",
+    "static/js/2.0b7f247e.chunk.js": "/IdentitySeal/reactState-reactHooks.git/static/js/2.0b7f247e.chunk.js",
+    "static/js/2.0b7f247e.chunk.js.map": "/IdentitySeal/reactState-reactHooks.git/static/js/2.0b7f247e.chunk.js.map",
+    "index.html": "/IdentitySeal/reactState-reactHooks.git/index.html",
+    "precache-manifest.87fe2b35551c086f0445f1d9680c01c7.js": "/IdentitySeal/reactState-reactHooks.git/precache-manifest.87fe2b35551c086f0445f1d9680c01c7.js",
+    "service-worker.js": "/IdentitySeal/reactState-reactHooks.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/IdentitySeal/reactState-reactHooks.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0b7f247e.chunk.js.LICENSE.txt": "/IdentitySeal/reactState-reactHooks.git/static/js/2.0b7f247e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7563e6be.js",
+    "static/js/2.0b7f247e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2ffd08a1.chunk.js"
+  ]
+}
